@@ -1,0 +1,24 @@
+{
+  "name": "qloapps",
+  "version": "1.0.0",
+  "description": "QloApps is an Open-source and Free hotel reservation system and booking engine. With the help of QloApps, you can launch your hotel booking website without any cost and take & manage online bookings.",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/webkul/hotelcommerce.git"
+  },
+  "keywords": [
+    "hotel",
+    "booking",
+    "reservation",
+    "php",
+    "qloapps"
+  ],
+  "author": "webkul <support@qloapps.com>",
+  "license": "OSL-3.0",
+  "devDependencies": {},
+  "dependencies": {}
+}
